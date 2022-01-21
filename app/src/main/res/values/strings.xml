@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">FrChat</string>
+    <string name="add_image">Add image</string>
+    <string name="App_name">Chats</string>
+    <string name="todo">TODO</string>
+    <string name="message">Message</string>
+    <string name="contact">Contact</string>
+    <string name="me">Me</string>
+    <string name="account">Account</string>
+    <string name="more">More</string>
+    <string name="log_out">Log out</string>
+    <string name="wellcome">Wellcome</string>
+    <string name="slogan">Stay in touch with you family, colleagues and friends</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="create_new_account">Create new account</string>
+    <string name="your_name">Enter your name</string>
+    <string name="your_email">Enter email</string>
+    <string name="your_password">Enter password</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="register">Register</string>
+    <string name="already_have_an_account_login">Already have an account? Login!</string>
+    <string name="type_a_message">Type a message…</string>
+    <string name="profile">Profile</string>
+    <string name="account_setting">Account setting</string>
+    <string name="report_technical_problem">Report technical problem</string>
+    <string name="help">Help</string>
+    <string name="legal_and_polices">Legal and polices</string>
+    <string name="error">This feature is under development</string>
+    <string name="log_out_successfully">Log Out successfully</string>
+    <string name="log_out_fail">Log Out Fail</string>
+    <string name="log_in_fail">Log In Fail</string>
+    <string name="log_in_successfully">Log In successfully</string>
+    <string name="unable_sign_in">Unable Sign In</string>
+    <string name="enter_email">Enter email</string>
+    <string name="enter_valid_email">Enter valid email</string>
+    <string name="enter_password">Enter password</string>
+    <string name="selected_profile_image">Selected profile image</string>
+    <string name="enter_name">Enter name</string>
+    <string name="check_confirm_password">Check confirm Password</string>
+    <string name="tracksuit_mafia">Tracksuit Mafia</string>
+    <string name="no_message">Please type a message</string>
+
+</resources>
